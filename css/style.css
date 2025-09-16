@@ -1,0 +1,29 @@
+body {
+  background-color: black !important;
+}
+h1{
+  background-color:rgb(11,61,145)!important;
+  font-size: 75px;
+  font-style: normal;
+  text-align: center;
+  font-family:"Kanit", sans-serif;
+  background-color: white;
+}
+.IMAGE img{
+  height:300px;
+  width:300px;
+}
+#planets{
+  color:yellow;
+  font-size:20px;
+  font-family:"Kanit", sans-serif;
+}
+.welcome{
+  color:red;
+  font-size:30px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  
+}
+
